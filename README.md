@@ -1,22 +1,18 @@
 ■ Profile
 |  key  |  value  |
 | ---- | ---- |
-|  名前  |  やぎぬ  |
-|  Qiita  |  [@yagi_eng](https://qiita.com/yagi_eng)<br>複数回トレンド入り、最高でデイリー1位<br>[![My Qiita posts](https://qiita-badge.apiapi.app/s/yagi_eng/posts.svg)](http://qiita.com/yagi_eng) ![My Qiita contributions](https://qiita-badge.apiapi.app/s/yagi_eng/contributions.svg)<br>※Zennへ移行  |
-|  Zenn  |  [@yagi_eng](https://zenn.dev/yagi_eng/books)  |
-|  note  |  [@yagi_eng](https://note.com/yagi_eng) |
-|  Twitter  |  [@yagi_eng](https://twitter.com/yagi_eng)  |
+|  名前  |  渋谷敬大  |
+|  所属  |  東洋大学　情報連携学部  |
+|  Email  |  s1F101802847@iniad.org |
 
 ■ Profile Supplements
 |  key  |  value  |
 | ---- | ---- |
-|  Wantedly  |  [@yagi_eng](https://www.wantedly.com/id/yagi_eng)  |
-|  Speaker Deck  |  [@yagieng](https://speakerdeck.com/yagieng) |
-|  Instagram  |  [@yaginu_travels_around](https://www.instagram.com/yaginu_travels_around/) <br>旅行の写真を投稿（東南アジアバックパックなど） <br>[@yaginu_nakame_lunch](https://www.instagram.com/yaginu_nakame_lunch/) <br>池袋周辺のグルメ情報を投稿  |
 |  性格診断結果  |  [クマ型](https://16test.uranaino.net/udata/cINlVQHf3OkU6jlTtw7j ) <br>マネージャー職が適職だそう  |
-|  好きな言語  |  Go  |
-|  興味のあること  |  ブロックチェーン/crypto/DAO、個人サービス開発、スタートアップでの開発  |
-|  趣味  |  海外旅行、体を動かすこと、アクティビティ全般、ゲーム  |
+|  好きな言語  |  Python  |
+|  趣味  |  旅行、ゲーム、音楽鑑賞  |
+|  好きな音楽  |  L'Arc〜en〜Ciel、日向坂46  |
+|  好きな漫画  |  鋼の錬金術師  |
 
 ■ Summary
 
