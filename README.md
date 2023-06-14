@@ -1,30 +1,96 @@
 # I'm Keita SHIBUYA
 
-## Profile
-
 <p align="left">
   <a href="https://github.com/KeitaSHIBUYA/KeitaSHIBUYA/">
     <img src="https://komarev.com/ghpvc/?username=KeitaSHIBUYA" alt="KeitaSHIBUYA" />
   </a>
-  <a href="http://twitter.com/KeitaSHIBUYA">
-    <img height="20" src="https://img.shields.io/twitter/follow/KeitaSHIBUYA?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/KeitaSHIBUYA">
     <img height="20" src="https://img.shields.io/github/followers/KeitaSHIBUYA?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://www.reddit.com/user/KeitaSHIBUYA">
-    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/KeitaSHIBUYA?label=Reddit&logo=reddit&style=flat" />
-  </a>
-  <a href="https://stackoverflow.com/users/5720201/KeitaSHIBUYA">
-    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
-  </a>
-  <a href="http://qiita.com/KeitaSHIBUYA">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/KeitaSHIBUYA/posts.svg" />
-  </a>
-  <//qiita.com/KeitaSHIBUYA">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/KeitaSHIBUYA/contributions.svg" />
-  </a>
 </p>
+
+## 👦 Profile
+
+👦 渋谷敬大 ( Shibuya Keita )
+
+🎂 1999/04/15
+
+🌏 日本/Japan
+
+💻 技術本部/本部付き
+
+✉️ [shibuya.keita@cloud-ace.jp](<https://mail.google.com/mail/?view=cm&to=shibuya.keita@cloud-ace.jp>)
+
+<details>
+
+<summary>❤️</summary>
+
+- L'Arc〜en〜Ciel
+- Jannne Da Arc
+- Acid Black Cherry
+- シド
+- UVERworld
+- 日向坂46
+- 乃木坂46
+
+</details>
+
+<details>
+
+<summary>🎮</summary>
+
+- **ファイナルファンタジーシリーズ**
+  - Final Fantasy XIII (XIII-II, Lightning Returns)
+  - Final Fantasy XV
+  - Final Fantasy XVI
+- **メタルギアソリッドシリーズ**
+  - METAL GEAR SOLID
+  - METAL GEAR SOLID 2 SONS OF LIBERTY
+  - METAL GEAR SOLID 3 SNAKE EATER
+  - METAL GEAR SOLID 4 GUNS OF THE PATRIOTS
+  - METAL GEAR SOLID PEACE WALKER
+  - METAL GEAR RISING REVENGEANCE
+  - METAL GEAR SOLID V GROUND ZEROES
+  - METAL GEAR SOLID V THE PHANTOM PAIN
+  - METAL GEAR SURVIVE
+- **アンチャーテッドシリーズ**
+  - アンチャーテッド エル・ドラドの秘宝
+  - アンチャーテッド 黄金刀と消えた船団
+  - アンチャーテッド 砂漠に眠るアトランティス
+  - アンチャーテッド 海賊王と最後の秘宝
+  - アンチャーテッド 古代神の秘宝
+- **THE LAST OF US シリーズ**
+  - THE LAST OF US
+  - THE LAST OF US II
+- **アサシンクリードシリーズ**
+  - エツィオシリーズ
+  - ブラックフラッグ
+  - オリジンズ
+  - オデッセイ
+- **龍が如くシリーズ (1 - 8)**
+  - 龍が如く 0
+  - 龍が如く 極
+  - 龍が如く 極2
+  - 龍が如く 3
+  - 龍が如く 4
+  - 龍が如く 5
+  - 龍が如く 6
+  - 龍が如く 7
+  - ジャッジアイズ
+  - ロストジャッジメント
+- **GHOST OF TSUSHIMA**
+
+</details>
+
+## ⚡️ Status
+
+![KeitaSHIBUYA's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeitaSHIBUYA&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeitaSHIBUYA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=KeitaSHIBUYA)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 <!--  
 |  key  |  value  |
