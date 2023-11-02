@@ -18,7 +18,7 @@
 
 🌏 日本/Japan
 
-💻 技術本部/本部付き
+💻 SRE
 
 ✉️ [shibuya.keita@cloud-ace.jp](<https://mail.google.com/mail/?view=cm&to=shibuya.keita@cloud-ace.jp>)
 
@@ -89,22 +89,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeitaSHIBUYA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KeitaSHIBUYA)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-<!--  
-|  key  |  value  |
-| ---- | ---- |
-|  名前  |  hkty666  |
-|  所属  |  技術本部  |
-|  Email  |  [shibuya.keita@cloud-ace.jp](<https://mail.google.com/mail/?view=cm&to=shibuya.keita@cloud-ace.jp>) |
-
-## Profile Supplements
-
-|  key  |  value  |
-| ---- | ---- |
-|  好きな言語  |  Python  |
-|  趣味  |  旅行、ゲーム、音楽鑑賞  |
-|  好きな音楽  |  L'Arc〜en〜Ciel、日向坂46  |
-|  好きな漫画  |  鋼の錬金術師  |
--->
